@@ -23,7 +23,7 @@ header {
 }
 
 nav {
-    background-color: lime;
+    background-color: rgb(85, 23, 185);
     width: 100%;
     padding: 5px;
     position: sticky;
@@ -55,15 +55,15 @@ h1 {
 
 h2 {
     font-weight: initial;
-    color: lime;
+    color: rgb(155, 11, 11);
 }
 
 h3 {
-    color: lime;
+    color: rgb(155, 11, 11);
 }
 
 h4 {
-    color: lime;
+    color: rgb(155, 11, 11);
 }
 
 .sub-judul {
@@ -151,7 +151,7 @@ aside {
 .profile img {
     width: 150px;
     border-style: double;
-    border-color: lime;
+    border-color: rgb(155, 11, 11);
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
@@ -165,7 +165,7 @@ aside {
 footer {
     padding: 15px;
     color: white;
-    background-color: lime;
+    background-color: rgb(155, 11, 11);
     text-align: center;
     font-weight: bold;
 }
