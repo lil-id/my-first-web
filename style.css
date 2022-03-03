@@ -134,7 +134,7 @@ aside {
 .profile {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
     border-radius: 5px;
-    padding: 20px;
+    padding: 30px;
     font-weight: initial;
 }
 
@@ -165,7 +165,7 @@ aside {
 footer {
     padding: 15px;
     color: white;
-    background-color: rgb(155, 11, 11);
+    background-color: rgb(85, 23, 185);
     text-align: center;
     font-weight: bold;
 }
